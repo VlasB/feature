@@ -1,0 +1,398 @@
+    1  sudo spctl --master-disable
+    2  sudo spctl --master-disable
+    3  /Applications/Open\ Gatekeeper\ friendly ; exit;
+    4  sudo xattr -rd com.apple.quarantine /Applications/LockedApp.app
+    5  /Volumes/Live\ Home\ 3D\ Pro\ 3.7.2/Open\ Gatekeeper\ friendly ; exit;
+    6  /Volumes/iMazing\ 2.10.6/Open\ Gatekeeper\ friendly ; exit;
+    7  /Volumes/Logic\ Pro\ X\ 10.4.8\ MAS/Open\ Gatekeeper\ friendly ; exit;
+    8  /Volumes/iMazing\ 2.11.1.13478\ 1/Extra/rhash ; exit;
+    9  /Volumes/CleanMyMac\ X\ 4.6.1\ 1/Extra/rhash ; exit;
+   10  sudo spctl --master-disable
+   11  sudo spctl --master-enable
+   12  sudo spctl --master-disablesudo spctl --master-disablesudo spctl --master-disable
+   13  sudo xattr -r -d com.apple.quarantine  /Applications/Reflector\ 3.app 
+   14  /Volumes/PDF\ Expert\ 2.5.4\ 1/Extra/rhash ; exit;
+   15  /Volumes/PDFelement\ 7.6.1.3037\ 1/Extra/rhash ; exit;
+   16  /Volumes/iRingg\ 1.0.45\ 1/Extra/rhash ; exit;
+   17  /Volumes/PDF\ Expert\ 2.5.11\ 1/Extra/rhash ; exit;
+   18  /Volumes/CleanMyMac\ X\ 4.6.14/Open\ Gatekeeper\ friendly ; exit;
+   19  /tmp/tnt7512/mount/Extra/rhash ; exit;
+   20  /Volumes/Adobe\ Photoshop\ 2020\ v21.2.4/Extra/Install.app/Contents/MacOS/Install ; exit;
+   21  /Volumes/Grids\ 6.1.6\ 1/Extra/rhash ; exit;
+   22  /Volumes/AnyTrans\ 8.8.1.20210126\ 1/Extra/rhash ; exit;
+   23  /Volumes/Sweet\ Home\ 3D\ 6.4.7\ MAS\ 1/Extra/rhash ; exit;
+   24  /Volumes/Live\ Home\ 3D\ Pro\ 3.8.3\ 1/Extra/rhash ; exit;
+   25  /Applications/IQOS\ widget\ DE.app/Contents/MacOS/IQOS\ widget\ DE ; exit;
+   26  /Volumes/Mate\ Translate\ 7.1.0\ MAS\ 1/Extra/rhash ; exit;
+   27  /Volumes/CleanMyMac\ X\ 4.8.2\ 1/Extra/rhash ; exit;
+   28  ping 192.168.0.1 -t
+   29  ping  192.168.0.1 
+   30  ping
+   31  ping-t
+   32  ping -T
+   33  exit
+   34  ping 87.144.91.36 -t
+   35  ping
+   36  87.144.91.36
+   37  87.144.91.36 ping -t
+   38  87.144.91.36
+   39  ping
+   40  ping -t 87.144.91.36
+   41  ping
+   42  91.38.217.79
+   43  ping -t 91.38.217.79
+   44  -t
+   45  ping
+   46  /Volumes/PhotosRevive\ 2.0.9/Open\ Gatekeeper\ friendly ; exit;
+   47  /Volumes/HitPaw\ Photo\ Enhancer\ 2.0.2.1/Open\ Gatekeeper\ friendly ; exit;
+   48  /Volumes/HitPaw\ Photo\ Enhancer\ 2.0.2.1/Open\ Gatekeeper\ friendly ; exit;
+   49  /Volumes/PhotosRevive\ 2.0.9\ 1/Extra/rhash ; exit;
+   50  /Volumes/PhotosRevive\ 2.0.9/Open\ Gatekeeper\ friendly ; exit;
+   51  ping
+   52  ping t
+   53  sobakajora
+   54  192.168.0.1 -t
+   55  192.168.0.1
+   56  ping
+   57  ping t
+   58  ping -t
+   59  ping - t
+   60  ping 192.168.0.1 - t
+   61  ding gooogle.com
+   62  ping google.com
+   63  ping google.com
+   64  % git--version
+   65  git--version.
+   66  $ git --version
+   67  $ git--version.
+   68  git clone https://github.com/git/git
+   69  git
+   70  git -v
+   71  bash -c
+   72  "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
+   73  exit
+   74  bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
+   75  ms
+   76  mc
+   77  nano
+   78  ssh-keygen -C vlasbaskakov@gmail.com
+   79  cat /Users/vlasbaskakov/.ssh/id_rsa.pub
+   80  cat ~/.ssh/id_rsa.pub
+   81  cd ~/.ssh
+   82  ls -al
+   83  cat ~id_rsa.pub
+   84  cat id_rsa.pub
+   85  ssh ec2-user@linux.itcareerhub.de
+   86  ssh ec2-user@linux.itcareerhub.de
+   87  ls -al
+   88  cat ~ssh
+   89  cat /Users/vlasbaskaKov/.ssh/la_rsa.pub
+   90  cat /Users/vlasbaskaKov/.ssh/la_rsa
+   91  ssh ec2-user@linux.itcareerhub.de
+   92  ls ~/.ssh/
+   93  ssh ec2-user@linux.itcareerhub.de
+   94  ssh ec2-user@linux.itcareerhub.de
+   95  ssh ec2-user@linux.itcareerhub.de
+   96  scp c2-user@linux.itcareerhub.de: /opt/090924-wdm/VlasB/NewFolder/README.txt ~/Users/README.txt
+   97  scp c2-user@linux.itcareerhub.de: /opt/090924-wdm/VlasB/NewFolder/README.txt ~/scp c2-user@linux.itcareerhub.de: /opt/090924-wdm/VlasB/NewFolder/README.txt ~/Publik
+   98  ps -ef
+   99  ssh ec2-user@linux.itcareerhub.de
+  100  ssh ec2-user@linux.itcareerhub.de
+  101  Kill 1097
+  102  ps -ef | grep ssh
+  103  ssh ec2-user@linux.itcareerhub.de
+  104  ssh ec2-user@linux.itcareerhub.de
+  105  ssh ec2-user@linux.itcareerhub.de
+  106  ssh ec2-user@linux.itcareerhub.de
+  107  exit
+  108  ssh ec2-user@linux.itcareerhub.de
+  109  ssh ec2-user@linux.itcareerhub.de
+  110  scp ec2-user@linux.itcareerhub.de /opt/090924-wdm/VlasB/.process_management
+  111  ssh ec2-user@linux.itcareerhub.de
+  112  ssh ec2-user@linux.itcareerhub.de
+  113  ssh ec2-user@linux.itcareerhub.de
+  114  ssh ec2-user@linux.itcareerhub.de
+  115  ssh ec2-user@linux.itcareerhub.de
+  116  ssh ec2-user@linux.itcareerhub.de
+  117  scp ec2-user@linux.itcareerhub.de /opt/090924-wdm/VlasB/.process_management
+  118  scp ssh ec2-user@linux.itcareerhub.de
+  119  scp ec2-user@linux.itcareerhub.de /opt/090924-wdm/VlasB/VlasB.process_management
+  120  ssh ec2-user@linux.itcareerhub.de
+  121  ssh ec2-user@linux.itcareerhub.de
+  122  exit
+  123  ssh ec2-user@linux.itcareerhub.de
+  124  ls -al
+  125  ssh ec2-user@linux.itcareerhub.de
+  126  ssh ec2-user@linux.itcareerhub.de
+  127  scp ec2-user@linux.itcareerhub.de:/opt/090924-wdm/VlasB/VlasB.process_management ~/Downloads
+  128  MBP-VLAS:~ vlasbaskakov$ scp ec2-user@linux.itcareerhub.de:/opt/090924-wdm/VlasB/VlasB.process_management ~/Downloads
+  129   MBP-VLAS:~ vlasbaskakov$ scp ec2-user@linux.itcareerhub.de:/opt/090924-wdm/VlasB/VlasB.process_management ~/Downloads
+  130  scp ec2-user@linux.itcareerhub.de:/opt/090924-wdm/VlasB/.process_management ~/Downloads
+  131  scp ec2-user@linux.itcareerhub.de:/opt/090924-wdm/VlasB/.process_management ~/Downloads
+  132  cd Downloads
+  133  ls -al
+  134  cat .process_management
+  135  node -v
+  136  npm -v
+  137  npm -init -y
+  138  ssh ec2-user@linux.itcareerhub.de
+  139  ssh ec2-user@linux.itcareerhub.de
+  140  ssh key
+  141  cd ~/.ssh
+  142  ls
+  143  cat ~/.id_rsa.pub
+  144  cat ~/.ssh/id_rsa.pub
+  145  cd ~/user/vlasbaskakov/Dowloands
+  146  clear
+  147  git config --global user.name "Vlas"
+  148  git config --global user.email "Vlasbaskakov@gmail.com"
+  149  git config --global -l
+  150  git config --global -l
+  151  ca ~/Git
+  152  cat ~/Git
+  153  cd
+  154  ls -l
+  155  cd Git
+  156  git clone git@github.com:VlasB/090924wdm.git
+  157  git clone git@github.com:VlasB/090924wdm.git
+  158  yes
+  159  cd
+  160  ls -l
+  161  cd Git
+  162  git clone git@github.com:VlasB/090924wdm.git
+  163  cd
+  164  ls -l
+  165  cat Git
+  166  cat /Git
+  167  tree /Git
+  168  cd..
+  169  cd ..
+  170  ls -l
+  171  cd
+  172  git
+  173  ls -al
+  174  ls -l Git
+  175  ls -al
+  176  cd Git
+  177  ls -al
+  178  cd 090924wdm/
+  179  ls -al
+  180  cd ..
+  181  ls -l
+  182  cd ..
+  183  cd ..
+  184  ls -l
+  185  cd
+  186  mkdir testGIt
+  187  >File1.txt
+  188  echo "test git" > File1.txt
+  189  echo "test git" > File2.html
+  190  git init
+  191  ls -al
+  192  cd testGIt
+  193  ls -al
+  194  cd testGIt
+  195  cd ..
+  196  cd ..
+  197  ls -al
+  198  cd
+  199  cd testGIt
+  200  ls -al
+  201  git add .
+  202  git status
+  203  git commit -m "Init commit"
+  204  git status
+  205  echo "New text " >> File1.txt
+  206  echo '#!/bin/bash' >> File.sh
+  207  git status
+  208  git add .
+  209  git status
+  210  git commit -m "Add new file.sh'
+  211  git log
+  212  git status
+  213  File
+  214  cat File1.txt
+  215  git log
+  216  git remote -v
+  217  git remote add origin git@github.com:VlasB/testGIt.git
+  218  git push -u origin main
+  219  cd ..
+  220  ls -l
+  221  cd testGIt
+  222  ls -al
+  223  git log
+  224  git pull
+  225  npm -init
+  226  npm init -y
+  227  npm run start
+  228  npm run start
+  229  npm install nodemon -D
+  230  run def
+  231  npm run dev
+  232  npm run dev
+  233  cd git_intro
+  234  cd ~/git
+  235  ls -al
+  236  cd ~/git_intro
+  237  cd git/git_intro
+  238  ls -l
+  239  cd git_intro
+  240  git init
+  241  git commit -m "wallpaper"
+  242  git branch -M main
+  243  git@github.com:VlasB/git_intro.git
+  244  git remote add origin git@github.com:ВАШЕ_ИМЯ_НА_GITHUB/git_intro.git
+  245  git remote add origin git@github.com:VlasB/git_intro.git
+  246  git push -u origin main
+  247  git remote add origin git@github.com:VlasB/git_intro.git
+  248  git remote add origin git@github.com:VlasB/git_intro.git
+  249  git push -u origin main
+  250  cd git/git_intro
+  251  ls -l
+  252  git init
+  253  git add gh.jpg
+  254  git commit -m "wallpaper"
+  255  git branch -M main
+  256  git remote add origin git@github.com:VlasB/git_intro.git
+  257  git push -u origin main
+  258  св git/git_inrto
+  259  cd git
+  260  ls -al
+  261  ls
+  262  git status
+  263  git add gh.jpg
+  264  git commit -m "wallpaper gith"
+  265  git btanch -M Main
+  266  git branch -M main
+  267  git remote add origin git@github.com:VlasB/git_intro.git
+  268  git remote remove origin
+  269  git remote add origin git@github.com:VlasB/git_intro.git
+  270  git push -u origin main
+  271  git pull origin main --rebase
+  272  git add gh.jpg
+  273  git rebase --continue
+  274  git push -u origin main
+  275  exit
+  276  ls -al
+  277  cat /git
+  278  cd /git
+  279  ~git
+  280  cd
+  281  la -al
+  282  cat git
+  283  exit
+  284  cat git-branch
+  285  ls -al
+  286  ~/Git
+  287  cd /Git
+  288  cd Git
+  289  ls -a;
+  290  ls -al
+  291  git git-branch
+  292  cd git/git-barnch
+  293  cd Git/git-branch
+  294  ls -l
+  295  cd git-branch
+  296  git init
+  297  git checkout -b gitignore
+  298  toch .gitignore
+  299  git add gitignore.txt
+  300  git commit -m "gitignore.txt "
+  301  git remote add origin git@github.com:VlasB/git-branch.git
+  302  git branch -M main
+  303  git push -u origin main
+  304  git add .gitignore
+  305  ls -l
+  306  touch .gitignore
+  307  nano .gitignore
+  308  git add .gitignore
+  309  git commit -m ".gitignor "
+  310  git checkout -b gitignore
+  311  git checkout -b gitignore
+  312  git remote add origin git@github.com:VlasB/git-branch.git
+  313  git push -u origin main
+  314  git branch
+  315  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  316  brew install --cask betterdisplay
+  317  ls -al
+  318  ecit
+  319  exit
+  320  bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzh...)"
+  321  bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzh...)"
+  322  bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
+  323  ssh ec2-user@linux.itcareerhub.de
+  324  git branch
+  325  ssh ec2-user@linux.itcareerhub.de
+  326  git branch
+  327  git checkout .gitignor
+  328  git checkout gitinit
+  329  cd Git
+  330  ls -l
+  331  cd git-branch/
+  332  git init
+  333  git checkout -b gitignore
+  334  git branch
+  335  touch .gitignore
+  336  nano .gitignore
+  337  git add .gitignore 
+  338  git commit -m "Add .gitignore"
+  339  git remote add origin git@github.com:VlasB/git-branch.git
+  340  git branch -M main
+  341  git btanch
+  342  git push -u origin gitignore
+  343  git checkout -b gitignore
+  344  git branch
+  345  git push -u origin gitignore
+  346  git status
+  347  ssh ec2-user@linux.itcareerhub.de
+  348  ssh ec2-user@linux.itcareerhub.de
+  349  ssh ec2-user@linux.itcareerhub.de
+  350  sass --version
+  351  sass --version
+  352  % node -v
+  353  sass -v
+  354  npm i - g sass
+  355  sass --version
+  356  sass
+  357  sass --version
+  358  sass --version
+  359  sass --help
+  360  npm init -y
+  361  npm install -g sass
+  362  npm i -g sass
+  363  sudo npm i -g  sass
+  364  sass --version
+  365  npm install -g sass
+  366  npm run sass
+  367  npn run sass
+  368  npm run sass
+  369  npm init -y
+  370  npm i -g sass
+  371  sudo npm i -g sass
+  372  sass --version
+  373  npm run sass
+  374  npm run sass
+  375  npm run sass
+  376  npm run sass
+  377  npm init -y
+  378  npn run sass
+  379  npm run sass
+  380  ssh ec2-user@linux.itcareerhub.de
+  381  git@github.com:VlasB/feature.git
+  382  git clone git@github.com:VlasB/feature.git
+  383  cd feture
+  384  cd feature
+  385  git checkout -b feature
+  386  branch
+  387  echo "# Feature Branch" > README.md
+  388  echo "new_ignore_rule" >> .gitignore
+  389  git add README.md .gitignore
+  390  git commit -m "Add README and update .gitignore"
+  391  git push -u origin feature
+  392  git commit --amend
+  393  git push --force
+  394  git git checkout main
+  395  git checkout main
+  396  git merge feature
+  397  git push origin main
+  398  history > history.txt
